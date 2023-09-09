@@ -1,5 +1,7 @@
-<img src="https://ibb.co/TcWV6YH"/>
-                                                                                
+<p align="center">
+  <img src="https://i.postimg.cc/wxDHtFB8/53lp.gif" alt="My GIF">
+</p>
+                                                                           
 <p align="center">
 Hola! Soy Estudiante de 1er año de Ingeniería Informatica ⚙️ | Tecnicatura Universitaria de Diseño Integral de videojuegos 🎮 | Estudiante de la Facultad de Ingeniería - UNJU
 </p>
