@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/wxDHtFB8/53lp.gif" alt="My GIF">
+  <img src="https://i.postimg.cc/tChhM0CS/dbxl55n-98f22434-00f3-4ceb-bbc0-ad197430694c.gif" alt="My GIF">
 </p>
                                                                            
 <p align="center">
