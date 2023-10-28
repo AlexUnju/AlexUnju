@@ -23,23 +23,6 @@
   </ul>
 </div>
 
-
-<!--Intro start-->
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning
-
-- 📝 I regularly write articles on
-
-- 💬 Ask me about **react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out 
-- 🏠 Also We've a tech community called 
-<!--Intro end-->
-
-
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
