@@ -18,14 +18,3 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
-
-<h3 align="left">Stars</h3>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexUnju&theme=midnight_purple" height="150em" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexUnju&layout=compact&theme=midnight-purple" alt=AlexUnju/>
-<p>&nbsp;<img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=AlexUnju&show_icons=true&locale=en&theme=midnight-purple" alt="AlexUnju" /></p>
-<p align="left"<a href="https://github.com/ryo-ma/github-profile-trophy"><img height="119.5em" src="https://github-profile-trophy.vercel.app/?username=AlexUnju&theme=dark_lover" alt="AlexUnju" /></a> </p>
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AlexUnju&theme=arctic"/>
